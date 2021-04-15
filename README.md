@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning DSA & Web Technologies
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Ask me about DSA and Web Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/satyam-dengre-882862190/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/satyam-dengre-882862190/)  [Portfolio](https://satyampgt4.github.io/portfolio/) 
 
  
 <a href="https://github.com/satyampgt4">
