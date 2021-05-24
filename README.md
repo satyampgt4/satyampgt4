@@ -28,7 +28,7 @@
 <a href="https://github.com/satyampgt4">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyampgt4&theme=onedark&show_icons=true" />
 </a>
-
+ 
 
 <a href="https://github.com/satyampgt4">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyampgt4&theme=onedark&show_icons=true" />
@@ -54,7 +54,7 @@
 
 
 ### :handshake: Always happy to help!
-
+ ![](https://komarev.com/ghpvc/?username=satyampgt4&color=blueviolet)
 
 ### :hugs: Thank You!
 Thank you so much for visiting my tiny space on GitHub! :v: 
