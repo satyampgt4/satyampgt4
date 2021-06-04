@@ -3,9 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/satyam-dengre-882862190/">
-    <img align="center" alt="Satyam Dengre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
+
   
 </p>
 
@@ -18,7 +16,9 @@
 - 🌱 I’m currently learning DSA & Web Technologies
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Ask me about DSA and Web Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/satyam-dengre-882862190/) [Twitter](https://twitter.com/d_may_tas)  [Portfolio](https://satyampgt4.github.io/portfolio/) 
+- 📫 How to reach me: [Portfolio](https://satyampgt4.github.io/portfolio/) <p><a href="https://www.linkedin.com/in/satyam-dengre-882862190/"><img align="center" alt="Satyam Dengre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a><a href="https://twitter.com/d_may_tas"><img align="center" alt="Satyam Dengre | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" /></a></p>
+
+ 
 
  
 <a href="https://github.com/satyampgt4">
