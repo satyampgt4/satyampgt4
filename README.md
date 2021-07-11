@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning DSA & Web Technologies
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Ask me about DSA and Web Development
-- 📫 How to reach me: [Portfolio](https://satyampgt4.github.io/portfolio/) <p><a href="https://www.linkedin.com/in/satyam-dengre-882862190/"><img align="center" alt="Satyam Dengre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a><a href="https://twitter.com/d_may_tas"><img align="center" alt="Satyam Dengre | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" /></a></p>
+- 📫 How to reach me: [Portfolio](https://satyampgt4.github.io/portfolio/) <p><a href="https://www.linkedin.com/in/satyam-dengre-882862190/"><img align="center" alt="Satyam Dengre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a><a href="https://twitter.com/sat_yam_d"><img align="center" alt="Satyam Dengre | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" /></a></p>
  
 <a href="https://github.com/satyampgt4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampgt4&theme=onedark&layout=compact"  height ="175px"  />
