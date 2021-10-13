@@ -41,8 +41,8 @@
 <code><img height="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="58" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprYdebuGjpDHnU5L4QZOI5ZrqyWmHIRjSBdq5ABi5Z_gcdnP_AgRtLEAsdwuokyhCGtU&usqp=CAU"></code>
 <code><img height="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="58" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
+<code><img src="https://img.icons8.com/color/58/000000/mysql-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/58/000000/mongodb.png"/></code>
 <code><img height="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img src="https://img.icons8.com/color/58/000000/firebase.png"/></code>
 
