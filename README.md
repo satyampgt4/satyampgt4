@@ -9,7 +9,6 @@
 
 #### I am Satyam Dengre. I am pursuing my B.Tech in IT from Institute of Engineering & Technology, DAVV, Indore. I love to explore and learn about new things.
 
-
 ## Here are some facts about me :
 
 - 🔭 I’m currently a Student
@@ -18,7 +17,19 @@
 - 🤔 Ask me about DSA and Web Development
 - 📫 How to reach me: <a href="https://satyampgt4.github.io/portfolio/"><img align="center" alt="Satyam Dengre | Portfolio" width="45px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" /></a>    <a href="https://www.linkedin.com/in/satyam-dengre-882862190/"><img align="center" alt="Satyam Dengre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>    <a href="https://twitter.com/sat_yam_d"><img align="center" alt="Satyam Dengre | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" /></a><a href="mailto:satyamgpt444@gmail.com"><img align="center" alt="Satyam Dengre | EMail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
  
-<a href="https://github.com/satyampgt4">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyampgt4&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyampgt4&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyampgt4&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyampgt4&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satyampgt4&theme=monokai)
+
+
+<!-- [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=satyampgt4&theme=onedark&layout=monokai)](https://git.io/streak-stats) -->
+
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=satyampgt4&theme=monokai&show_icons=true)](https://git.io/streak-stats)
+
+<!-- [![](https://github-readme-streak-stats.herokuapp.com/?user=satyampgt4&theme=monokai&show_icons=true)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api?username=satyampgt4&theme=monokai&show_icons=true](https://git.io/streak-stats) -->
+
+
+<!-- <a href="https://github.com/satyampgt4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampgt4&theme=onedark&layout=compact"  height ="175px"  />
 </a>
 
@@ -28,7 +39,7 @@
 <br/>
 <a href="https://github.com/satyampgt4">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyampgt4&theme=onedark&show_icons=true" />
-</a>
+</a> -->
  
 ### 📦 Languages and Tools: 
 <code><img src="https://img.icons8.com/color/58/000000/git.png"/></code>
@@ -53,4 +64,7 @@
  ![](https://komarev.com/ghpvc/?username=satyampgt4&color=blueviolet)
 
 ### :hugs: Thank You!
+![Twitter Follow](https://img.shields.io/twitter/follow/sat_yam_d?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/satyampgt4?style=social)
+
 Thank you so much for visiting my tiny space on GitHub! :v: 
